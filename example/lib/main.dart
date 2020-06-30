@@ -19,8 +19,8 @@ class _MyAppState extends State<MyApp> {
     ///参数一 appkey
     ///参数二 推送使用的pushSecret
     ///参数三 是否打开调试日志
-    FlutterFaiUpgrade.uMengInit("5dcfb8f84ca357f70e000b0a",
-        pushSecret: "5cb4fc014c143a77fb85cb17edd807a2", logEnabled: true);
+    FlutterFaiUpgrade.uMengInit("5ee8cba0dbc2ec081340b58a",
+        pushSecret: "e04c4181f34de9eb3a60e815c233d41f", logEnabled: true);
 
     /// 监听原生消息
     FlutterFaiUpgrade.receiveMessage((message) {

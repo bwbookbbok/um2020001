@@ -1,4 +1,4 @@
-package java.com.bluewhitepants.flutter_fai_upgrade;
+package com.bluewhitepants.flutter_fai_upgrade;
 
 import android.app.Notification;
 import android.content.BroadcastReceiver;
